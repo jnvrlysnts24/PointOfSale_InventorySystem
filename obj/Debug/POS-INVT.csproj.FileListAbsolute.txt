@@ -1,0 +1,281 @@
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Guna.UI.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MetroFramework.Design.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Bunifu.Licensing.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmBrandList.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmBrand.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmCategory.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmCategoryList.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmProduct.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmProductList.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmSearchProductStockIn.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmStockIn.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\POS-INVT.csproj.GenerateResource.Cache
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Teacher\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Teacher\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Teacher\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Teacher\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MetroFramework.Design.dll
+C:\Users\Teacher\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+C:\Users\Teacher\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Teacher\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Teacher\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmBrandList.resources
+C:\Users\Teacher\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmBrand.resources
+C:\Users\Teacher\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmCategory.resources
+C:\Users\Teacher\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmCategoryList.resources
+C:\Users\Teacher\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDiscount.resources
+C:\Users\Teacher\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLookUp.resources
+C:\Users\Teacher\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmPOS.resources
+C:\Users\Teacher\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmProduct.resources
+C:\Users\Teacher\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmProductList.resources
+C:\Users\Teacher\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQty.resources
+C:\Users\Teacher\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmSearchProductStockIn.resources
+C:\Users\Teacher\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmSettle.resources
+C:\Users\Teacher\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmStockIn.resources
+C:\Users\Teacher\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Teacher\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\POS-INVT.csproj.GenerateResource.Cache
+C:\Users\Teacher\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Teacher\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Teacher\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\POS-INVT.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmReceipt.resources
+C:\Users\Teacher\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+C:\Users\Teacher\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+C:\Users\Teacher\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Teacher\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmSoldItems.resources
+C:\Users\Teacher\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmReportSold.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MetroFramework.Design.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmAdjustment.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmBrandList.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmBrand.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmCancelDetails.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmCategory.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmCategoryList.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChangePassword.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChart.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDashboard.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDiscount.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmInventoryReport.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLookUp.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmPOS.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmProduct.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmProductList.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQty.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmReceipt.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmRecords.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmReportSold.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmSearchProductStockIn.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmSecurity.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmSettle.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmSoldItems.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmStockIn.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmStore.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmUserAccount.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmVendor.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmVendorList.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmVoid.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\POS-INVT.csproj.GenerateResource.Cache
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DeveloperLogofrm.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SplashScreen.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zxing.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zxing.presentation.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zxing.xml
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zxing.presentation.xml
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmBarcode.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\POS-INVT.csprojResolveAssemblyReference.cache
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MetroFramework.Design.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zxing.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zxing.presentation.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zxing.xml
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zxing.presentation.xml
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\POS-INVT.csprojResolveAssemblyReference.cache
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DeveloperLogofrm.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmAdjustment.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmBarcode.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmBrandList.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmBrand.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmCancelDetails.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmCategory.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmCategoryList.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChangePassword.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChart.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDashboard.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDiscount.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmInventoryReport.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLookUp.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmPOS.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmProduct.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmProductList.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQty.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmReceipt.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmRecords.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmReportSold.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmSearchProductStockIn.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmSecurity.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmSettle.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmSoldItems.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmStockIn.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmStore.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmUserAccount.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmVendor.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmVendorList.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmVoid.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SplashScreen.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\POS-INVT.csproj.GenerateResource.Cache
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\POS-DB.ldf
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\POS-DB.mdf
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\POS-DB.ldf
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\POS-DB.mdf
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MetroFramework.Design.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zxing.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zxing.presentation.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zxing.xml
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zxing.presentation.xml
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DeveloperLogofrm.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmAdjustment.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmBarcode.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmBrandList.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmBrand.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmCancelDetails.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmCategory.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmCategoryList.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChangePassword.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChart.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDashboard.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDiscount.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmInventoryReport.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLookUp.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmPOS.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmProduct.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmProductList.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQty.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmReceipt.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmRecords.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmReportSold.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmSearchProductStockIn.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmSecurity.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmSettle.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmSoldItems.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmStockIn.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmUserAccount.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmVendor.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmVendorList.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmVoid.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SplashScreen.resources
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\POS-INVT.csproj.GenerateResource.Cache
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\My Computer\Documents\Visual Studio 2015\Projects\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\POS-INVT.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\POS-DB.ldf
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\POS-DB.mdf
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zxing.dll
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zxing.presentation.dll
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zxing.xml
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zxing.presentation.xml
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\POS-INVT.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DeveloperLogofrm.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmAdjustment.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmBarcode.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmBrandList.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmBrand.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmCancelDetails.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmCategory.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmCategoryList.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChangePassword.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmChart.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDashboard.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDiscount.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmInventoryReport.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLookUp.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmPOS.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmProduct.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmProductList.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmQty.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmReceipt.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmRecords.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmReportSold.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmSearchProductStockIn.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmSecurity.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmSettle.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmSoldItems.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmStockIn.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmUserAccount.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmVendor.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmVendorList.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmVoid.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SplashScreen.resources
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\POS-INVT.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\User\Desktop\POS-INVT_AlphaTesting - Copy\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
+C:\Users\User\Desktop\POS-InventorySystem\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\User\Desktop\POS-InventorySystem\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\POS-InventorySystem\POS-INVT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
